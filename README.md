@@ -2,12 +2,12 @@
 # 👋 Hello, I'm Sanya Badole
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Bioinformatican;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating innovative solutions and exploring new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate bioinformatican who loves creating innovative solutions and exploring new technologies. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
 
 ## 💻 Tech Stack
 
