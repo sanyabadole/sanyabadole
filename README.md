@@ -1,4 +1,3 @@
-# sanyabadole
 # 👋 Hello, I'm Sanya Badole
 
 <div align="center">
