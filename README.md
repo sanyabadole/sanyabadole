@@ -18,7 +18,7 @@ I'm a Bioinformatics graduate student at Georgia Institute of Technology with ex
 
 ## 🌟 Featured Projects
 
-<div align="center"> <a href="https://github.com/sanyabadole/CDK1-Inhibitor-Discovery"> <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyabadole&repo=sanyabadole&theme=radical"/> </a> </div>
+<div align="center"> <a href="https://github.com/sanyabadole/Gene-Prediction-and-Annotation"> <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyabadole&repo=Gene-Prediction-and-Annotation&theme=radical"/> </a> </div>
 
 ## 📫 Connect With Me
 
