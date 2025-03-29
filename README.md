@@ -29,7 +29,7 @@ I'm a passionate bioinformatican who loves creating innovative solutions and exp
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/sanyabadole/sanyabadole">
+  <a href="https://github.com/sanyabadole/DNA-Sequence-Analysis">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=sanyabadole&repo=sanyabadole&theme=radical"/>
   </a>
 </div>
