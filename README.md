@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a Bioinformatics graduate student at Georgia Institute of Technology with expertise in computational biology and machine learning. Currently working as a Graduate Research Assistant at Emory University, I specialize in single-cell analysis, genomic data processing, and developing automated pipelines for complex biological datasets. With a strong foundation in both wet lab techniques and computational methods, I'm passionate about leveraging technology to solve challenging problems in cancer research and genomics.
+I'm a Bioinformatics graduate student at Georgia Institute of Technology with expertise in computational biology and machine learning. Currently working as a Graduate Research Assistant at the Bhasin Lab at Emory University, I specialize in single-cell analysis, genomic data processing, and developing automated pipelines for complex biological datasets. With a strong foundation in both wet lab techniques and computational methods, I'm passionate about leveraging technology to solve challenging problems in cancer research and genomics.
 
 ## 💻 Tech Stack
 
